@@ -1,2 +1,2 @@
-# hanshuyan.github.io
-Homepage: [hanshuyan.github.io/](hanshuyan.github.io/)
+<!-- # hanshuyan.github.io -->
+[This is an external link to genome.gov] (https://www.genome.gov/)
