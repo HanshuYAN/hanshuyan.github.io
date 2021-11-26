@@ -1,3 +1,46 @@
+/*p {
+    
+    color:#538b01;
+    font-weight:bold;
+    font-style:italic;
+}
+*/
+mark.c1 {
+	font-size:25px;
+	vertical-align:middle;
+	font-weight:bold;
+	font-style:italic;
+    background: none;
+    color:#3498DB;
+}
+
+mark.c2 {
+	font-size:25px;
+	vertical-align:middle;
+	font-weight:bold;
+	font-style:italic;
+    background: none;
+    color:#F39C12;
+}
+
+mark.c3 {
+	font-size:25px;
+	vertical-align:middle;
+	font-weight:bold;
+	font-style:italic;
+    background: none;
+    color:#28B463;
+}
+
+mark.c4 {
+	font-size:25px;
+	vertical-align:middle;
+	font-weight:bold;
+	font-style:italic;
+    background: none;
+    color: #E74C3C;
+}
+
 /*font-family: Georgia, "Times New Roman", "Microsoft YaHei", "????", STXihei, "????", serif;*/
 :lang(zh-Hant) 	{font-family: Kai,KaiTi,serif;}
 :lang(zh) 	{font-family: Kai,KaiTi,serif;}
@@ -69,7 +112,9 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #224b8d;
+	color: #512E5F;
+	/*color: #1A5276;*/
+	/*color: #1B4F72;*/
 	text-decoration: none;
 }
 
@@ -124,7 +169,8 @@ strong {
 }
 
 h1, h2, h3 {
-	color: #527bbd;
+	/*color: #527bbd;*/
+	color: #8E44AD;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
     padding-top: 0.5em;
