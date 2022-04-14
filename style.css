@@ -14,55 +14,6 @@ table.center {
   margin-right: auto;
 }
 
-div#papers a:link { color: #17202A; }
-div#papers a:visited { color: #17202A; }
-div#papers a:hover { color: #17202A; }
-div#papers a:active { color: #17202A; }
-
-mark.c1 {
-    font-size:25px;
-    vertical-align:middle;
-    font-weight:bold;
-    font-style:italic;
-    background: none;
-    color:#3498DB;
-}
-
-mark.c2 {
-    font-size:25px;
-    vertical-align:middle;
-    font-weight:bold;
-    font-style:italic;
-    background: none;
-    color:#F39C12;
-}
-
-mark.c3 {
-    font-size:25px;
-    vertical-align:middle;
-    font-weight:bold;
-    font-style:italic;
-    background: none;
-    color:#28B463;
-}
-
-mark.c4 {
-    font-size:25px;
-    vertical-align:middle;
-    font-weight:bold;
-    font-style:italic;
-    background: none;
-    color: #E74C3C;
-}
-
-title.paper {
-    /*font-size:25px;*/
-    font-weight:bold;
-    font-style:italic;
-    background: none;
-    color: #E74C3C;
-}
-
 body {
 	background: white;
 	font-family: Georgia, serif;
