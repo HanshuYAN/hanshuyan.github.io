@@ -11,6 +11,15 @@ i.material-icons {
 	vertical-align: middle;
 }
 
+mark.c0 {
+    font-size:25px;
+    vertical-align:middle;
+    font-weight:bold;
+    font-style:italic;
+    background: none;
+    color: #9A1AD3;
+}
+
 mark.c1 {
     font-size:25px;
     vertical-align:middle;
@@ -46,6 +55,8 @@ mark.c4 {
     background: none;
     color: #E74C3C;
 }
+
+
 
 table#tlayout {
     width: 100%;
