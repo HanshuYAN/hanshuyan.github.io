@@ -125,7 +125,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #224b8d;
+	color: #7D3C98;
 	text-decoration: none;
 }
 
@@ -133,15 +133,8 @@ a:hover {
 	border-bottom: 1px orange solid;
 }
 
-#layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #022b6d;
-	border-bottom: 1px gray solid;
-}
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #527bbd;
-	text-decoration: none;
-}
-#layout-menu a:hover {
+	color: #7D3C98;
 	text-decoration: none;
 }
 
@@ -180,7 +173,7 @@ strong {
 }
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: #7D3C98;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
     padding-top: 0.5em;
