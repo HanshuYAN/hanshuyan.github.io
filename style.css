@@ -96,6 +96,10 @@ table#tlayout {
     border-collapse: collapse;
     background: white;
 }
+table.imgtable, table.imgtable td {
+    border: none;
+    text-align: left;
+}
 
 #layout-menu {
 	background: #f6f6f6;
