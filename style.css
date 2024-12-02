@@ -1,6 +1,7 @@
 body {
 	background: white;
-	font-family: Helvetica;
+	/* font-family: Helvetica; */
+	font-family: Arial;
 	padding-bottom: 8px;
 	margin: 0;
 	/*font-family: */
@@ -16,7 +17,8 @@ body {
 
 
 h1, h2, h3 {
-	color: #68118e;
+	/* color: black; */
+	/* color: #68118e; */
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
     padding-top: 0.5em;
@@ -36,7 +38,7 @@ h2 {
 
 h3 {
 	padding-top: 0.2em;
-	font-size: 110%;
+	font-size: 100%;
 	border-bottom: none;
 }
 
