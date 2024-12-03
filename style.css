@@ -85,7 +85,8 @@ ol ol ol {
   
 
 img {
-	border: 0.01px dashed lightgray;
+	/* border: 0.01px dashed lightgray; */
+	border: 1px inset gray;
     /* border: none; */
 }
 
